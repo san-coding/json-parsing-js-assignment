@@ -1,0 +1,98 @@
+{
+    "collection_04": {
+        "files": [
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.####.jpg", 
+                "id": 51
+            }, 
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 52
+            }, 
+            {
+                "path": "V:/data/editorial/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 53
+            }, 
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.ccc", 
+                "id": 54
+            }
+        ]
+    }, 
+    "collection_05": {
+        "files": [
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.####.jpg", 
+                "id": 61
+            }, 
+            {
+                "path": "V:/data/editorial/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 63
+            }, 
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.ccc", 
+                "id": 64
+            }
+        ]
+    }, 
+    "collection_02": {
+        "files": [
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.####.jpg", 
+                "id": 30
+            }, 
+            {
+                "path": "V:/data/IO/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 32
+            }, 
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 31
+            }, 
+            {
+                "path": "V:/data/editorial/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 33
+            }, 
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.ccc", 
+                "id": 34
+            }
+        ]
+    }, 
+    "collection_03": {
+        "files": [
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.####.jpg", 
+                "id": 41
+            }, 
+            {
+                "path": "V:/data/editorial/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 44
+            }, 
+            {
+                "path": "V:/data/IO/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 43
+            }, 
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.ccc", 
+                "id": 45
+            }
+        ]
+    }, 
+    "collection_01": {
+        "files": [
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.####.jpg", 
+                "id": 25
+            }, 
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.mov", 
+                "id": 26
+            }, 
+            {
+                "path": "V:/data/shot/0010/0010_0120/0010_0120_anim_v001.ccc", 
+                "id": 29
+            }
+        ]
+    }
+}
